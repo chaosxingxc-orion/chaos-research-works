@@ -16,4 +16,4 @@ As code is added, update this file with the real build/lint/test commands and an
 
 ## Notes
 
-- Git repository initialized; default branch is `master`. No commits yet.
+- Git repository on branch `master`, published to GitHub at `https://github.com/chaosxingxc-orion/chaos-research-works` (remote `origin`).
